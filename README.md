@@ -4,7 +4,7 @@ I'm a 21‑year‑old MSc IT student & developer based in Ahmedabad, India. I cr
 
 ---
 
-## 🎓 About Me
+## 🎓 Education
 
 - **Current**: MSc IT at GLS University (2025–present)  
 - **Previous**: Silver Medalist in BSc IT with 2nd rank among 300+ students at GLS University (2021–2024)  
