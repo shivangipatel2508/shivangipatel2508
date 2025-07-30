@@ -19,9 +19,9 @@ I’ve worked across domains such as Web Development, Mobile Development, IoT & 
 
 ## 🛠️ Technical Skills
 
-**Languages:** C, C++, Java, Python, PHP, JavaScript        
-**Databases:** MySQL, PL/SQL, Frameworks/Libraries:  Flutter, Django, Bootstrap
-**Tools & Platforms:** Maven, RStudio, Joomla, Jupyter Note, Arduino IDE                            
+- **Languages:** C, C++, Java, Python, PHP, JavaScript        
+- **Databases:** MySQL, PL/SQL, Frameworks/Libraries:  Flutter, Django, Bootstrap
+- **Tools & Platforms:** Maven, RStudio, Joomla, Jupyter Note, Arduino IDE                            
 
 ---
 
