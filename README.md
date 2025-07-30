@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shivangi Patel
 
-I'm a 20‑year‑old MSc IT student & developer based in Ahmedabad, India. I create digital experiences that truly matter.
+I'm a 21‑year‑old MSc IT student & developer based in Ahmedabad, India. I create digital experiences that truly matter.
 
 ---
 
