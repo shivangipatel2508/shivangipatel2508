@@ -7,7 +7,7 @@ I'm a 21‑year‑old MSc IT student & developer based in Ahmedabad, India. I cr
 ## 🎓 Education
 
 - **Current**: MSc IT at GLS University (2025–present)  
-- **Previous**: Silver Medalist in BSc IT with 2nd rank among 300+ students at GLS University (2021–2024)  
+- **Previous**: Silver Medalist in BSc IT with 2nd rank and best Female Student in BSc IT at GLS University (2021–2024)  
 
 ---
 
@@ -19,9 +19,9 @@ I’ve worked across domains such as Web Development, Mobile Development, IoT & 
 
 ## 🛠️ Technical Skills
 
-- **Languages & Frameworks**: (add specifics like Python, JavaScript, React, etc.)
-- **Domains**: Web Development · Mobile Apps · IoT · Cybersecurity
-- **Tools & Technologies**: (example—Figma, Git, SQL, AWS)
+**Languages:** C, C++, Java, Python, PHP, JavaScript        
+**Databases:** MySQL, PL/SQL, Frameworks/Libraries:  Flutter, Django, Bootstrap
+**Tools & Platforms:** Maven, RStudio, Joomla, Jupyter Note, Arduino IDE                            
 
 ---
 
