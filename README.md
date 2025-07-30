@@ -1,7 +1,3 @@
-[![Shivangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivangipatel2508)](https://github.com/shivangipatel2508)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=shivangipatel2508)
-
 # 👋 Hi, I’m Shivangi Patel
 
 I'm a 20‑year‑old MSc IT student & developer based in Ahmedabad, India. I create digital experiences that truly matter.
@@ -49,6 +45,10 @@ I believe in using tech to solve real problems—whether scaling an IoT system o
 - Design systems and user-centered design principles
 
 ---
+
+## My Github Stats
+[![Shivangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivangipatel2508)](https://github.com/shivangipatel2508)
+![Profile View Counter](https://komarev.com/ghpvc/?username=shivangipatel2508)
 
 Thanks for visiting my GitHub profile! 😊  
 Let’s build something great together.
