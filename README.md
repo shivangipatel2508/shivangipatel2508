@@ -1,16 +1,54 @@
-## Hi there 👋
+[![Shivangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivangipatel2508)](https://github.com/shivangipatel2508)
 
-<!--
-**shivangipatel2508/shivangipatel2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile View Counter](https://komarev.com/ghpvc/?username=shivangipatel2508)
 
-Here are some ideas to get you started:
+# 👋 Hi, I’m Shivangi Patel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a 20‑year‑old MSc IT student & developer based in Ahmedabad, India. I create digital experiences that truly matter.
+
+---
+
+## 🎓 About Me
+
+- **Current**: MSc IT at GLS University (2025–present)  
+- **Previous**: Silver Medalist in BSc IT with 2nd rank among 300+ students at GLS University (2021–2024)  
+
+---
+
+## 💼 Experience & Projects
+
+I’ve worked across domains such as Web Development, Mobile Development, IoT & Security. I'm passionate about building solutions that are both functional and impactful. 
+
+---
+
+## 🛠️ Technical Skills
+
+- **Languages & Frameworks**: (add specifics like Python, JavaScript, React, etc.)
+- **Domains**: Web Development · Mobile Apps · IoT · Cybersecurity
+- **Tools & Technologies**: (example—Figma, Git, SQL, AWS)
+
+---
+
+## 🧠 What Drives Me
+
+I believe in using tech to solve real problems—whether scaling an IoT system or crafting an engaging user experience. I thrive on collaboration and continuous learning.
+
+---
+
+## 📫 Connect with Me
+
+- **Portfolio & More**: [shivangi.works](https://shivangi.works)  
+- **Feel free to reach out** for collaboration, mentoring, or to talk tech!
+
+---
+
+## 🌱 I’m continuously learning:
+
+- Emerging technologies in IT & Security  
+- Best practices in software development  
+- Design systems and user-centered design principles
+
+---
+
+Thanks for visiting my GitHub profile! 😊  
+Let’s build something great together.
