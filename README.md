@@ -48,6 +48,7 @@ I believe in using tech to solve real problems—whether scaling an IoT system o
 
 ## My Github Stats
 [![Shivangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivangipatel2508)](https://github.com/shivangipatel2508)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=shivangipatel2508)
 
 Thanks for visiting my GitHub profile! 😊  
