@@ -8,11 +8,11 @@
 
 # 👋 Hi, I'm Shivangi Patel
 
-20-year-old MSc IT student and developer based in Ahmedabad, India.<br>
+21-year-old MSc IT student and developer based in Ahmedabad, India.<br>
 I craft digital experiences that make an impact.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shivangi.works-blue?style=for-the-badge&logo=google-chrome)](https://shivangi.works)
-[![GitHub](https://img.shields.io/badge/GitHub-shivangipatel2508-181717?style=for-the-badge&logo=github)](https://github.com/shivangipatel2508)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shivangi.works-blue?style=flat-rounded&logo=google-chrome)](https://shivangi.works)
+[![GitHub](https://img.shields.io/badge/GitHub-shivangipatel2508-181717?style=flat-rounded&logo=github)](https://github.com/shivangipatel2508)
 
 </div>
 
