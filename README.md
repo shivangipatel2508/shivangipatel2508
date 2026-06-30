@@ -1,7 +1,7 @@
 <!--
     Shivangi Patel | MSc IT Student & Developer
     Ahmedabad, India
-    Portfolio: https://shivangi.works
+    Portfolio: https://shivangipatel.me
 -->
 
 <div align="center">
@@ -11,7 +11,7 @@
 22-year-old Backend developer based in Ahmedabad, India.<br>
 I craft digital experiences that make an impact.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shivangi.works-blue?style=plastic&logo=google-chrome)](https://www.shivangipatel.me/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shivangipatel.me-blue?style=plastic&logo=google-chrome)](https://www.shivangipatel.me/)
 [![GitHub](https://img.shields.io/badge/GitHub-shivangipatel2508-181717?style=plastic&logo=github)](https://github.com/shivangipatel2508)
 
 </div>
