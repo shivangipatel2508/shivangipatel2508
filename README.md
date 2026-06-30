@@ -92,18 +92,6 @@ Worked across domains:
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-[![Shivangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivangipatel2508&show_icons=true&theme=github_dark)](https://github.com/shivangipatel2508)
-<br>
-<img src="https://komarev.com/ghpvc/?username=shivangipatel2508&style=flat-square" alt="Profile views"/>
-
-</div>
-
----
-
 <p align="center">
   <b>Thanks for visiting my profile! 😊<br>
   Let’s build something great together.</b>
